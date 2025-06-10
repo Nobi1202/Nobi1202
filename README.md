@@ -1,10 +1,10 @@
-### Hi there 👋, I'm Nobi!
+### Hi there 👋, I'm Giáo Sư Flutter!
 
 # 💫About Me :
 - 🔭 I’m currently working at Sotatek Company
-- 🌱 I’m currently learning Flutter and Android
+- 🌱 I’m a Senior mobile developer with expertise in flutter.
 - 👯 I’m looking to collaborate on mobile application
-- 📫 How to reach me: saobang001111@gmail.com or https://www.facebook.com/profile.php?id=100007893101502
+- 📫 How to reach me: nguyen.tran13022000@gmail.com 
 - 🌱 Enthusiasm and Determination are my key words.
 
 ## 🌐Socials
